@@ -8,7 +8,7 @@
         "roave/security-advisories": "dev-master",
         "bear/package": "~1.0",
         "josegonzalez/dotenv": "~2.0",
-        "bear/reactjs-module": "^0.3.0"
+        "bear/reactjs-module": "^0.3.3"
     },
     "require-dev": {
         "composer/composer": "~1.0",

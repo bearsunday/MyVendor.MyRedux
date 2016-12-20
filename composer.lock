@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3ffbcb28132fb3f3c8d93111fe8127fb",
-    "content-hash": "7605c2791673ee6e07cf3283b48bf186",
+    "hash": "8679deded2daf48c11cb3ea19cb802de",
+    "content-hash": "c53ccfb593f1fe2e69d596667cdc17f4",
     "packages": [
         {
             "name": "aura/cli",
@@ -195,16 +195,16 @@
         },
         {
             "name": "bear/reactjs-module",
-            "version": "0.3.0",
+            "version": "0.3.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bearsunday/BEAR.ReactJsModule.git",
-                "reference": "7bee07e21fa4d65378a73bd530d7a09916dca954"
+                "reference": "2b1a28f958c45bb7db60564269ff90fad14f8ed0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bearsunday/BEAR.ReactJsModule/zipball/7bee07e21fa4d65378a73bd530d7a09916dca954",
-                "reference": "7bee07e21fa4d65378a73bd530d7a09916dca954",
+                "url": "https://api.github.com/repos/bearsunday/BEAR.ReactJsModule/zipball/2b1a28f958c45bb7db60564269ff90fad14f8ed0",
+                "reference": "2b1a28f958c45bb7db60564269ff90fad14f8ed0",
                 "shasum": ""
             },
             "require": {
@@ -235,7 +235,7 @@
                 }
             ],
             "description": "Redux React Serevr-Side Rendering using V8Js module for BEAR.Sunday",
-            "time": "2016-12-15 08:22:32"
+            "time": "2016-12-20 08:06:50"
         },
         {
             "name": "bear/resource",
